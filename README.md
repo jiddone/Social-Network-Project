@@ -1,7 +1,7 @@
 
 # 📺 Twitch Community Detection
 
-**Studente**: Gianluca Ferrari  
+**Progetto sviluppato da**: Gianluca Ferrari  
 
 ## 📝 Descrizione
 
