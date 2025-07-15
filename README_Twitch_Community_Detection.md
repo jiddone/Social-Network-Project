@@ -110,4 +110,4 @@ Distribuito sotto licenza **MIT**.
 Per domande o suggerimenti:
 
 **Gianluca Ferrari**  
-📧 Email: gianluca.ferrari@email.com
+📧 Email: gianlucaferrari2000@gmail.com
